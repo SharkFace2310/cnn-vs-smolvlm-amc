@@ -1,0 +1,6 @@
+ΓΕΩΜΕΤΡΙΑ:
+    numpy
+    matplotlib
+    scipy
+    pillow
+    pandas
